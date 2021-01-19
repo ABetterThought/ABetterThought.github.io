@@ -110,6 +110,14 @@ iframe {
   border: none;
 }
 
+b.highlight {
+  color: #e11;
+}
+
+u.highlight {
+  text-decoration-color: #e11;
+}
+
 /*****************************************************************************/
 /*
 /* Extra
