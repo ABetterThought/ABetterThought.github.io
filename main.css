@@ -87,8 +87,9 @@ table {
     border-collapse: collapse;
 }
 
-td {
+td, th {
     border: 0px;
+    padding: 2px;
 }
 
 tr:nth-child(even) {
@@ -378,7 +379,7 @@ my-email::before {
 }
 
 .title a {
-  color: #a00;
+  color: #600;
 }
 
 .title a:hover {
