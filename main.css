@@ -23,13 +23,13 @@ body {
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
-  background-color: #444;
+  background-color: #111;
   padding: 0
 }
 
 @media only all and (min-device-width: 1151px) {
     body {
-        background-image: url('/assets/Lamp.jpg');
+        background-image: url('Background.jpg');
         background-size: cover;
         background-attachment: fixed;
     }
