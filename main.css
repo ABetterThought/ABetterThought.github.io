@@ -90,6 +90,7 @@ table {
 td, th {
     border: 0px;
     padding: 2px;
+    White-space: nowrap;
 }
 
 tr:nth-child(even) {
@@ -100,7 +101,7 @@ tr:nth-child(odd) {
     background-color: #fff;
 }
 
-table.full {
+table.fill {
     height: 100%;
     width: 100%;
 }
